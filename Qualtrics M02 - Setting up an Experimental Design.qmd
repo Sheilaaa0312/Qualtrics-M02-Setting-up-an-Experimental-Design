@@ -48,13 +48,25 @@ I added two branches:
 
 The `DV` block appears after the two branches so all participants receive the same dependent-variable questions.
 
-![Full Survey Flow](Full%20Survey%20Flow.png)
+![Full Survey Flow](Full Survey Flow.png)
 
 ## Randomization Test
 
-I tested the survey several times in Preview mode.
+I tested the survey several times in Preview mode to confirm that the random assignment worked.
 
-Across repeated previews, I received both experimental conditions, and each preview showed only one condition at a time.
+### Reviewer Condition
+
+In one preview run, I was assigned to the `social_media_review` condition.
+
+![Reviewer condition preview](Reviewer condition preview.png)
+
+### Ads Condition
+
+In another preview run, I was assigned to the `ads` condition.
+
+![Ads condition preview](Ads condition preview.png)
+
+The two preview runs confirmed that participants are assigned to only one experimental condition at a time.
 
 # Platform-Specific Social Media Usage
 
@@ -154,5 +166,5 @@ This makes the scale easier to follow and keeps higher numeric values associated
 
 # Appendix
 
-- GitHub Repository
+- [GitHub Repository](https://github.com/Sheilaaa0312/Qualtrics-M02-Setting-up-an-Experimental-Design)
 - Published HTML on GitHub Pages
