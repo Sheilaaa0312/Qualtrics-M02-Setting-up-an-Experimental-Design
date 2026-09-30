@@ -170,4 +170,4 @@ This makes the scale easier to follow and keeps higher numeric values associated
 # Appendix
 
 - [GitHub Repository](https://github.com/Sheilaaa0312/Qualtrics-M02-Setting-up-an-Experimental-Design)
-- Published HTML on GitHub Pages
+- [Published HTML on GitHub Pages](https://sheilaaa0312.github.io/Qualtrics-M02-Setting-up-an-Experimental-Design/)
