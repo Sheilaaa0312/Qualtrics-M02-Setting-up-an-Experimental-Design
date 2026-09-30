@@ -51,7 +51,7 @@ I added two branches:
 
 The `DV` block appears after the two branches so all participants receive the same dependent-variable questions.
 
-![Full Survey Flow](Full Survey Flow.png)
+![Full Survey Flow](Full%20Survey%20Flow.png)
 
 ## Randomization Test
 
@@ -61,13 +61,13 @@ I tested the survey several times in Preview mode to confirm that the random ass
 
 In one preview run, I was assigned to the `social_media_review` condition.
 
-![Reviewer condition preview](Reviewer condition preview.png)
+![Reviewer condition preview](Reviewer%20condition%20preview.png)
 
 ### Ads Condition
 
 In another preview run, I was assigned to the `ads` condition.
 
-![Ads condition preview](Ads condition preview.png)
+![Ads condition preview](Ads%20condition%20preview.png)
 
 The two preview runs confirmed that participants are assigned to only one experimental condition at a time.
 
